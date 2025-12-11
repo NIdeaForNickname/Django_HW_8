@@ -1,6 +1,6 @@
 # Django_HW_8
 
-<img width="1403" height="794" alt="image" src="https://github.com/user-attachments/assets/b6c0b792-ce5a-4d8b-9fcf-6effc4b2e250" />
+<img width="1447" height="523" alt="image" src="https://github.com/user-attachments/assets/e9f9eb38-0910-422e-b588-8de1655e4cd0" />
 
 <img width="1408" height="701" alt="image" src="https://github.com/user-attachments/assets/1b876e91-a965-43f3-b356-eea638f8b886" />
 
